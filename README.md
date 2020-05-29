@@ -9,7 +9,7 @@ Well here comes the solution to all your multi-optioned problems - a customizabl
 
 The die is designed to have a variable number of flat faces with a number on the opposite side. Wherever the die comes to rest, the associated number will show face up for easy reading.
 
-Use the OpenSCAD script has parameters to modify number of sides, font and face depth, style and size of the font, as well as the model resolution. The procedural model uses the Golden Selection Spiral algorithm to find the positions of reasonably even distribution of faces on a sphere for most values of n. Some smaller values of n use preset face angles. Due to most distributions being non-symmetrical, numbers will generally appear off-center of the flat faces in the die.
+Use the OpenSCAD script has parameters to modify number of sides, font and face depth, style and size of the font, as well as the model resolution. The procedural model uses the golden ratio to find the positions of reasonably even distribution of faces on a sphere for most values of n. Some smaller values of n use preset face angles. Due to most distributions being non-symmetrical, numbers will generally appear off-center of the flat faces in the die.
 
 For best results of the lower hemisphere of the die, print using a raft and supports. Finish the bottom and sides using fine grain sandpaper.
 

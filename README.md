@@ -1,6 +1,8 @@
 # n-die
 OpenSCAD script to generate a n-sided die model for 3d printing.  View and generate models on [Thingiverse](https://www.thingiverse.com/thing:58408).
 
+![d7](examples/d7.png) ![d11](examples/d11.png) ![d23](examples/d23.png)
+
 Sure, six choices are no match for a standard die. But what about picking from seven, eleven, or the unthinkable twenty-three choices? Until now, you were never able to leave it up to chance, forcing yourself to go through the agonizing processes of choosing. 
 
 Well here comes the solution to all your multi-optioned problems - a customizable die for all your random number needs! You may have ninety-nine problems, but now choosing ain't one.
